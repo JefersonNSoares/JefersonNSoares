@@ -8,6 +8,3 @@
 <a href="mailto:jeferson.nascimento.soares@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:jeferson.nascimento.soares@gmail.com" height="30" width="90" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonNSoares&layout=compact)
-
-
