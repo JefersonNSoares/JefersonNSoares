@@ -66,7 +66,7 @@
 <h3 align="left">🔗 Conecte-se comigo e acompanhe meu trabalho:</h3>
 <h3 align="left">🔗 Connect with me and follow my work:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/jefersonnsoares/" target="blank" rel="noopener noreferrer"
+  <a href="https://www.linkedin.com/in/jefersonnsoares/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
